@@ -1,2 +1,6 @@
-LISM
-====
+APPLICATIONS OF DISTRIBUTED GRAPH PROCESSING ON PRODUCT RECOMMENDATIONS AND DETECTION OF KEY PHRASES
+=======================================================================================================
+
+Using the Logical Itemset mining , going to develope the Open source library.The user can integate the library on his/her application.This project is aimed at the development of a new library for implementing Application of distributed graph processing on product recommendation and key phrases detection for product description in text mining.
+     Our first moto is to develope library for product recommendation to show similar product or detection of key phrases for product decription in text mining.However we will develope the library that can able to intergrate in any application that is under this domain.
+     The purpose of this document is to collect, analyze and define high-level needs and features of the use of Logical Itemset Mining (LISM ) framework. It focuses on the capabilities needed by the stakeholders, and the target users, and why these needs exist.The details of how the Logical Itemset Mining fulfils these needs are detailed in the use-case and supplementary specifications.
